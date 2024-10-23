@@ -104,5 +104,3 @@ We welcome contributions! Please follow these steps:
 ## Contact Information
 For inquiries, please reach out to Naveen Kumar at naveenavid.nk@gmail.com
 ```
-
-Feel free to customize the placeholders (like `yourusername` and `your email`) and any other sections to reflect your project's specifics! Let me know if you need any more help!
